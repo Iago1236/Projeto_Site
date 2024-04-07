@@ -118,19 +118,13 @@ body {
   font-size: 1.7rem;
  }
  .card.red {
-  background-color: red;
+  background-color: rgb(202, 28, 28);
  }
  .card.blue {
-  background-color: blue;
+  background-color: rgb(23, 125, 209);
  }
  .card.purple {
-  background-color: purple;
- }
- .card.yellow {
-  background-color: yellow;
- }
- .card.green {
-  background-color: green;
+  background-color: rgb(189, 37, 189);
  }
  .members {
   display: flex;
